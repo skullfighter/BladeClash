@@ -1,6 +1,7 @@
-# Multiplayer Augmented Reality (AR) Game Development (Video Link :- https://drive.google.com/file/d/1-fye1Nn2d7cj-NMTuZVON5B1YR8MtVcd/view?usp=sharing)
+# Multiplayer Augmented Reality (AR) Game Development 
 
 Welcome to the **Multiplayer AR Game Development** repository! This project showcases a complete multiplayer augmented reality game that I developed using Unity, AR Foundation, and Photon Unity Networking (PUN 2). The game leverages the latest in AR technology—including Google’s ARCore and Apple’s ARKit—to create an immersive, cross-platform experience.
+(Video Link :- https://drive.google.com/file/d/1-fye1Nn2d7cj-NMTuZVON5B1YR8MtVcd/view?usp=sharing)
 
 ---
 
